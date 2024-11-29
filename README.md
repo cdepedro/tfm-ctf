@@ -1,1 +1,1 @@
-Scripts creados para el Trabao de fin de master de Capture the Flag
+Scripts creados para el Trabajo de fin de master de Capture the Flag
